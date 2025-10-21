@@ -6,6 +6,10 @@ Mia Yang
 
 here is the first line and i am so tired
 
+a test to add commit
+
+another one
+
 # My second commit
 
 here is the second line and i am so sleepy
