@@ -10,6 +10,8 @@ a test to add commit
 
 another one
 
+*here is some text on the test branch.*
+
 # My second commit
 
 here is the second line and i am so sleepy
